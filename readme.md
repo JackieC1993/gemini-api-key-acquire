@@ -7,7 +7,7 @@ This document outlines the process to request a Gemini API key for use in the Ge
 
 ## Instructions
 
-1. Go to [Google AI Studio](https://aistudio.google.com/app/apikey) (you may need to sign in with a Google account)
+1. Go to [Google AI Studio](https://aistudio.google.com/app/apikey) (you may need to sign in with a Google account or sign up for a new account)
 
 2. Click on `Create API key`
 <img src="./assets/get-key.png" alt="Get API key" width="300"/>
