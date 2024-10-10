@@ -17,7 +17,7 @@ This document outlines the process to request a Gemini API key for use in the Ge
 
 5. Click the `Create API key in new project` button
 
-6. You should now see a modal like the one below except, with your API key and a copy button.
+6. You should now see a modal like the one below except, with your API key and a copy button. (Note: API key and button not shown for privacy reasons)
 
 <img src="./assets/key-created.png" alt="API key created" width="300"/>
 
