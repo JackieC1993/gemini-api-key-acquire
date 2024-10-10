@@ -1,4 +1,7 @@
 # Gemini API Key Request
+
+<img src="./assets/key.webp" alt="Gemini API Key" width="500"/>
+
 This document outlines the process to request a Gemini API key for use in the Gemini API.
 
 
