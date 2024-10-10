@@ -25,7 +25,7 @@ This document outlines the process to request a Gemini API key for use in the Ge
 
 8. You will later use this API key to authenticate your requests to the Gemini API
 
-### If you already have a Google Developer Account
+## If you already have a Google Developer Account
 
 When you click on `Create API key` you will see a modal like the one below:
 
